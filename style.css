@@ -3,10 +3,15 @@ body {
     margin: 0;
 }
 
+.container-header {
+    background-color: #1F2937;
+    padding: 20px 100px;
+}
+
 .header-top {
     display: flex;
     justify-content: space-between;
-    background-color: #1F2937;
+    align-items: center;
 }
 
 .header-logo {
@@ -15,6 +20,12 @@ body {
 
 .header-links {
     display: flex;
+    gap: 20px;
     list-style-type: none;
+    font-weight: 600;
+}
+
+.header-links li a {
+    text-decoration: none;
     color: #F9FAF8;
 }
