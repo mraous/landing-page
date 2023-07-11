@@ -29,3 +29,14 @@ body {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.header-bottom {
+    display: flex;
+    gap: 20px;
+}
+
+.hb-left h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
