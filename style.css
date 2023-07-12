@@ -5,38 +5,50 @@ body {
 
 .container-header {
     background-color: #1F2937;
-    padding: 20px 100px;
+    padding: 20px 125px;
 }
 
 .header-top {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 100px;
 }
 
-.header-logo {
-
-}
 
 .header-links {
     display: flex;
     gap: 20px;
     list-style-type: none;
-    font-weight: 600;
 }
 
-.header-links li a {
+.header-links li a, .hb-left p {
     text-decoration: none;
-    color: #F9FAF8;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .header-bottom {
     display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
     gap: 20px;
+    margin-bottom: 100px;
 }
 
 .hb-left h1 {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: 900;
+    margin-top: 0;
     color: #F9FAF8;
+}
+
+.hb-left button {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #3882F6;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
 }
