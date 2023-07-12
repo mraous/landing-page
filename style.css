@@ -52,3 +52,54 @@ body {
     padding: 10px 30px;
     border-radius: 5px;
 }
+
+/* Second container below */
+.container-2 {
+    padding: 20px 125px;
+}
+
+.container-2 h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icontainer {
+    text-align: center;
+    max-width: 150px;
+}
+
+.icontainer img {
+    border: 2px solid #3882F6;
+    border-radius: 15px;
+}
+
+.icontainer p {
+    margin: 5px 0;
+}
+
+/* Third container below */
+.container-3 {
+    background-color: #e5e7eb;
+    padding: 20px 125px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.author {
+    color: #1f2937;
+    font-weight: 1000;
+    font-size: 20px;
+    text-align: right;
+}
