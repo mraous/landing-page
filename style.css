@@ -91,7 +91,6 @@ body {
 }
 
 .quote {
-    text-align: center;
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
@@ -103,3 +102,41 @@ body {
     font-size: 20px;
     text-align: right;
 }
+
+/* Fourth container below */
+
+.container-4 {
+    padding: 20px 125px;
+}
+
+.blue-container {
+    background: #3882F6;
+    border-radius: 5px;
+    padding: 40px 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call-title {
+    color: #F9FAF8;
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.call-text {
+    color: #e5e7eb;
+    font-size: 15px;
+    margin: 5px 0;
+} 
+
+.blue-container button {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #3882F6;
+    border: 2px solid white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
