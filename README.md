@@ -17,7 +17,7 @@ Picture credit:
 
 <a href="https://cdn.pixabay.com/photo/2018/06/30/09/29/monkey-3507317_1280.jpg">Monkey</a>
 
-<a href="https://cdn.pixabay.com/photo/2017/08/30/11/53/square-2696800_1280.png">Gradiant Squares</a>
+<a href="https://cdn.pixabay.com/photo/2017/08/30/11/53/square-2696800_1280.png">Gradient Squares</a>
 
 
 
